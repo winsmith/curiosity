@@ -1,6 +1,10 @@
 # Curiosity
 Sources and Outlines for my talk on the computer and software architecture of Mars Science Laboratory
 
+The list below is pretty jumbled and pasted directly from the full outline. I'll try to clean it up some time after the talk.
+
+My complete collection of materials is in the `Curiosity.ooutline` file. To open it, get OmniOutliner from the macOS App Store (and use the free viewer mode). 
+
 ## Sources
 
 - **Lakdawalla. (2018). The Design and Engineering of Curiosity, How the Mars Rover Performs Its Job, Springer International Publishing**
